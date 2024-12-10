@@ -1,6 +1,5 @@
 import { Component, OnInit } from "@angular/core";
 
-// component
 @Component({
   selector: "app-property-card",
   templateUrl: "./property-card.component.html",
