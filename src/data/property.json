@@ -1,0 +1,98 @@
+[
+  {
+    "Id": 1,
+    "SellRent": 1,
+    "Name": "Modern",
+    "Type": "House",
+    "Price": 100000,
+    "Image": "prop-1"
+  },
+  {
+    "Id": 2,
+    "SellRent": 2,
+    "Name": "Luxury",
+    "Type": "Villa",
+    "Price": 200000,
+    "Image": "prop-2"
+  },
+  {
+    "Id": 3,
+    "SellRent": 1,
+    "Name": "Duplex",
+    "Type": "House",
+    "Price": 300000,
+    "Image": "prop-3"
+  },
+  {
+    "Id": 4,
+    "SellRent": 2,
+    "Name": "Appartment",
+    "Type": "Flat",
+    "Price": 150000,
+    "Image": "prop-4"
+  },
+  {
+    "Id": 5,
+    "SellRent": 2,
+    "Name": "Tenant",
+    "Type": "House",
+    "Price": 50000,
+    "Image": "prop-5"
+  },
+  {
+    "Id": 6,
+    "SellRent": 1,
+    "Name": "Home",
+    "Type": "Condo",
+    "Price": 50000,
+    "Image": "prop-6"
+  },
+  {
+    "Id": 7,
+    "SellRent": 2,
+    "Name": "Beach",
+    "Type": "House",
+    "Price": 50000,
+    "Image": "prop-7"
+  },
+  {
+    "Id": 8,
+    "SellRent": 2,
+    "Name": "Home",
+    "Type": "Cottage",
+    "Price": 50000,
+    "Image": "prop-8"
+  },
+  {
+    "Id": 9,
+    "SellRent": 1,
+    "Name": "Home",
+    "Type": "Country Side",
+    "Price": 50000,
+    "Image": "prop-9"
+  },
+  {
+    "Id": 10,
+    "SellRent": 1,
+    "Name": "Luxury",
+    "Type": "House",
+    "Price": 50000,
+    "Image": "prop-12"
+  },
+  {
+    "Id": 11,
+    "SellRent": 2,
+    "Name": "River House",
+    "Type": "River",
+    "Price": 50000,
+    "Image": "prop-11"
+  },
+  {
+    "Id": 12,
+    "SellRent": 1,
+    "Name": "Home",
+    "Type": "",
+    "Price": 50000,
+    "Image": "prop-10"
+  }
+]
